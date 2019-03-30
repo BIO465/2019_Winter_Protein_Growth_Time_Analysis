@@ -1,4 +1,4 @@
-From	To
+Protein	Gene
 Q2STE9	atpD1
 Q2SXU7	fabH
 Q2SYH7	wbiB
