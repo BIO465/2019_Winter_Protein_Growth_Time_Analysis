@@ -1,0 +1,1236 @@
+RPA2869
+
+RPA3973
+
+RPA3069
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa00230 Purine metabolism - Rhodopseudomonas palustris CGA009 (1)
+RPA4418
+RPA4217
+RPA4015
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa00270 Cysteine and methionine metabolism - Rhodopseudomonas palustris CGA009 (1)
+RPA2876
+
+RPA2597
+rpa03018 RNA degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+RPA2006
+rpa00564 Glycerophospholipid metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+RPA0668
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+RPA0654
+rpa01220 Degradation of aromatic compounds - Rhodopseudomonas palustris CGA009 (1)
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0653
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+rpa01220 Degradation of aromatic compounds - Rhodopseudomonas palustris CGA009 (1)
+RPA2966
+rpa02020 Two-component system - Rhodopseudomonas palustris CGA009 (1)
+
+RPA0651
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+RPA4829
+
+RPA4823
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa00061 Fatty acid biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+RPA4822
+
+RPA4813
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+RPA4807
+
+RPA4788
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+RPA4760
+
+RPA4759
+rpa00500 Starch and sucrose metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa00052 Galactose metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+RPA4758
+
+RPA4719
+
+RPA4717
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+RPA4708
+rpa00910 Nitrogen metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+RPA4675
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01220 Degradation of aromatic compounds - Rhodopseudomonas palustris CGA009 (1)
+RPA4673
+
+RPA4669
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+RPA4668
+
+RPA4667
+
+RPA4666
+
+RPA4571
+
+RPA4515
+
+RPA4510
+
+RPA4471
+
+RPA4469
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+rpa00920 Sulfur metabolism - Rhodopseudomonas palustris CGA009 (1)
+RPA4468
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa00920 Sulfur metabolism - Rhodopseudomonas palustris CGA009 (1)
+RPA4466
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+rpa00920 Sulfur metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+RPA4460
+
+RPA4456
+
+RPA4432
+
+RPA4424
+
+RPA4409
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+RPA4404
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+RPA4397
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+
+
+
+RPA4329
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA4321
+
+RPA4254
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa00190 Oxidative phosphorylation - Rhodopseudomonas palustris CGA009 (1)
+RPA4244
+
+RPA4239
+
+RPA4225
+
+RPA4224
+
+RPA4198
+
+RPA4194
+
+RPA4152
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+RPA4138
+
+RPA4080
+
+RPA4077
+
+RPA4069
+
+RPA4059
+
+RPA4045
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA4034
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+RPA4029
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+RPA4024
+rpa01230 Biosynthesis of amino acids - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00450 Selenocompound metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00270 Cysteine and methionine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA4019
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+RPA4016
+rpa00270 Cysteine and methionine metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa01230 Biosynthesis of amino acids - Rhodopseudomonas palustris CGA009 (1)
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+RPA4002
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+RPA3974
+
+RPA3967
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+rpa00260 Glycine, serine and threonine metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+rpa01230 Biosynthesis of amino acids - Rhodopseudomonas palustris CGA009 (1)
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+rpa00290 Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris CGA009 (1
+RPA3947
+
+RPA3929
+
+RPA3880
+rpa00480 Glutathione metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+RPA3878
+
+RPA3875
+
+RPA3865
+
+RPA3827
+
+
+
+
+RPA3810
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+RPA3780
+
+RPA3773
+
+RPA3769
+
+RPA3768
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3725
+
+RPA3724
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3720
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3719
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3718
+
+RPA3717
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3716
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00061 Fatty acid biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3657
+
+RPA3656
+
+RPA3655
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00626 Naphthalene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01220 Degradation of aromatic compounds - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00010 Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00350 Tyrosine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00625 Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3654
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00790 Folate biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3624
+rpa00930 Caprolactam degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00053 Ascorbate and aldarate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01220 Degradation of aromatic compounds - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00030 Pentose phosphate pathway - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3594
+
+RPA3582
+
+RPA3568
+
+RPA3564
+rpa00380 Tryptophan metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3550
+
+
+
+
+RPA3474
+rpa00051 Fructose and mannose metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3473
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00051 Fructose and mannose metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3472
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa01210 2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa00290 Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00770 Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01230 Biosynthesis of amino acids - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3471
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3470
+
+RPA3458
+
+RPA3455
+
+RPA3441
+
+RPA3428
+
+RPA3416
+
+RPA3371
+
+RPA3344
+
+RPA3313
+
+RPA3309
+
+RPA3306
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00910 Nitrogen metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3301
+
+RPA3299
+rpa00061 Fatty acid biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3297
+
+RPA3296
+
+RPA3289
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3288
+
+RPA3284
+
+RPA3218
+
+RPA3217
+
+RPA3211
+
+RPA3188
+
+RPA3149
+
+RPA3137
+
+RPA3101
+
+RPA3093
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA3089
+
+RPA3058
+
+RPA3053
+
+RPA2990
+
+RPA2974
+
+RPA2969
+
+RPA2801
+RPA2786
+
+RPA2773
+
+RPA2755
+
+RPA2732
+
+RPA2651
+
+RPA2621
+
+RPA2579
+
+RPA2574
+rpa02020 Two-component system - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2552
+
+RPA2543
+
+RPA2539
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2523
+rpa00620 Pyruvate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2519
+
+RPA2516
+
+RPA2511
+
+RPA2501
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2444
+
+RPA2336
+
+RPA2334
+RPA2313
+
+RPA2312
+
+RPA2277
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2276
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2275
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2269
+
+RPA2266
+rpa00480 Glutathione metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2201
+
+RPA2193
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2183
+
+RPA2172
+
+RPA2146
+
+RPA2145
+
+RPA2143
+rpa00281 Geraniol degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+
+RPA2142
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00061 Fatty acid biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2141
+
+RPA2139
+
+RPA2137
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2134
+
+RPA2117
+
+RPA2047
+rpa02020 Two-component system - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA2024
+
+RPA2008
+
+RPA2002
+
+RPA2001
+rpa01210 2-Oxocarboxylic acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa00660 C5-Branched dibasic acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa01230 Biosynthesis of amino acids - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa00290 Valine, leucine and isoleucine biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00770 Pantothenate and CoA biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1994
+
+RPA1955
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+
+rpa00625 Chloroalkane and chloroalkene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01220 Degradation of aromatic compounds - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00010 Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00680 Methane metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00350 Tyrosine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00626 Naphthalene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1879
+rpa00121 Secondary bile acid biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1789
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1782
+
+RPA1763
+
+RPA1762
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1741
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1732
+
+RPA1725
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1723
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1703
+rpa00900 Terpenoid backbone biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00310 Lysine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00620 Pyruvate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02020 Two-component system - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00630 Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00072 Synthesis and degradation of ketone bodies - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00380 Tryptophan metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1702
+
+RPA1699
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+RPA1693
+
+RPA1690
+
+RPA1687
+
+RPA1686
+RPA1664
+
+RPA1655
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1651
+
+RPA1640
+
+RPA1614
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1613
+
+RPA1609
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00627 Aminobenzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1608
+
+RPA1591
+
+RPA1576
+
+RPA1515
+
+RPA1500
+
+RPA1499
+
+RPA1496
+
+RPA1494
+
+RPA1481
+
+RPA1475
+RPA1446
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1440
+
+RPA1415
+
+RPA1414
+
+RPA1405
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00791 Atrazine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00220 Arginine biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1291
+
+RPA1290
+
+RPA1261
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1238
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00281 Geraniol degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00310 Lysine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00930 Caprolactam degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00627 Aminobenzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00380 Tryptophan metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00903 Limonene and pinene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1237
+
+RPA1236
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1235
+
+RPA1217
+
+RPA1212
+
+RPA1206
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00620 Pyruvate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00010 Glycolysis / Gluconeogenesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1194
+rpa00623 Toluene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00361 Chlorocyclohexane and chlorobenzene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00364 Fluorobenzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1173
+
+RPA1164
+
+RPA1133
+
+RPA1113
+
+RPA1092
+
+RPA1090
+
+RPA1055
+rpa00760 Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1054
+rpa00250 Alanine, aspartate and glutamate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00760 Nicotinate and nicotinamide metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1016
+rpa02020 Two-component system - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00190 Oxidative phosphorylation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA1003
+
+RPA0999
+
+RPA0992
+
+RPA0983
+
+RPA0922
+
+RPA0902
+
+RPA0896
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00780 Biotin metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00061 Fatty acid biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0895
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00780 Biotin metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00061 Fatty acid biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0889
+
+RPA0806
+
+RPA0791
+
+RPA0785
+
+RPA0784
+
+RPA0743
+
+RPA0738
+
+RPA0709
+
+RPA0703
+
+RPA0676
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0661
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00627 Aminobenzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0600
+RPA0582
+
+RPA0580
+
+RPA0566
+
+RPA0543
+
+RPA0532
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00630 Glyoxylate and dicarboxylate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01200 Carbon metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0530
+
+RPA0485
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0484
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0465
+
+RPA0460
+
+RPA0421
+
+RPA0416
+
+RPA0409
+rpa00330 Arginine and proline metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00350 Tyrosine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00260 Glycine, serine and threonine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00380 Tryptophan metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00340 Histidine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0383
+rpa01110 Biosynthesis of secondary metabolites - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00362 Benzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01212 Fatty acid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00640 Propanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00410 beta-Alanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00380 Tryptophan metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00903 Limonene and pinene degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00627 Aminobenzoate degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00310 Lysine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00280 Valine, leucine and isoleucine degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01120 Microbial metabolism in diverse environments - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00930 Caprolactam degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00281 Geraniol degradation - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01130 Biosynthesis of antibiotics - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00071 Fatty acid degradation - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0378
+rpa00052 Galactose metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00561 Glycerolipid metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0363
+
+RPA0341
+
+RPA0225
+
+RPA0222
+
+RPA0215
+
+RPA0194
+
+RPA0157
+
+RPA0109
+rpa00650 Butanoate metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0106
+rpa02024 Quorum sensing - Rhodopseudomonas palustris CGA009 (1)
+
+rpa02010 ABC transporters - Rhodopseudomonas palustris CGA009 (1)
+
+
+RPA0005
+rpa00130 Ubiquinone and other terpenoid-quinone biosynthesis - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00350 Tyrosine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa00360 Phenylalanine metabolism - Rhodopseudomonas palustris CGA009 (1)
+
+rpa01100 Metabolic pathways - Rhodopseudomonas palustris CGA009 (1)
+
+

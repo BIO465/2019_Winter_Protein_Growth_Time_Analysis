@@ -1,0 +1,56 @@
+BTH_I0599
+bte01100 Metabolic pathways - Burkholderia thailandensis E264 (1)
+bte00561 Glycerolipid metabolism - Burkholderia thailandensis E264 (1)
+BTH_I0761
+BTH_I2124
+BTH_I3260
+BTH_II0977
+BTH_II0209
+bte02030 Bacterial chemotaxis - Burkholderia thailandensis E264 (1)
+bte02010 ABC transporters - Burkholderia thailandensis E264 (1)
+BTH_I3337
+bte00790 Folate biosynthesis - Burkholderia thailandensis E264 (1)
+bte00400 Phenylalanine, tyrosine and tryptophan biosynthesis - Burkholderia thailandensis E264 (1)
+bte00360 Phenylalanine metabolism - Burkholderia thailandensis E264 (1)
+bte01100 Metabolic pathways - Burkholderia thailandensis E264 (1)
+bte01230 Biosynthesis of amino acids - Burkholderia thailandensis E264 (1)
+BTH_I3210
+BTH_I3209
+bte02020 Two-component system - Burkholderia thailandensis E264 (1)
+bte02030 Bacterial chemotaxis - Burkholderia thailandensis E264 (1)
+BTH_I3149
+BTH_I3106
+bte00360 Phenylalanine metabolism - Burkholderia thailandensis E264 (1)
+bte00130 Ubiquinone and other terpenoid-quinone biosynthesis - Burkholderia thailandensis E264 (1)
+bte00350 Tyrosine metabolism - Burkholderia thailandensis E264 (1)
+bte01100 Metabolic pathways - Burkholderia thailandensis E264 (1)
+BTH_I2540
+BTH_I1724
+BTH_I1623
+bte01100 Metabolic pathways - Burkholderia thailandensis E264 (1)
+bte00630 Glyoxylate and dicarboxylate metabolism - Burkholderia thailandensis E264 (1)
+bte01120 Microbial metabolism in diverse environments - Burkholderia thailandensis E264 (1)
+bte01200 Carbon metabolism - Burkholderia thailandensis E264 (1)
+bte00680 Methane metabolism - Burkholderia thailandensis E264 (1)
+BTH_I1432
+BTH_I1394
+BTH_I1365
+BTH_I0817
+bte01120 Microbial metabolism in diverse environments - Burkholderia thailandensis E264 (1)
+bte01130 Biosynthesis of antibiotics - Burkholderia thailandensis E264 (1)
+bte00230 Purine metabolism - Burkholderia thailandensis E264 (1)
+bte01100 Metabolic pathways - Burkholderia thailandensis E264 (1)
+bte00261 Monobactam biosynthesis - Burkholderia thailandensis E264 (1)
+bte00920 Sulfur metabolism - Burkholderia thailandensis E264 (1)
+bte00450 Selenocompound metabolism - Burkholderia thailandensis E264 (1)
+BTH_I0480
+bte03410 Base excision repair - Burkholderia thailandensis E264 (1)
+BTH_I0202
+bte02040 Flagellar assembly - Burkholderia thailandensis E264 (1)
+BTH_II2077
+BTH_II1544
+bte02040 Flagellar assembly - Burkholderia thailandensis E264 (1)
+BTH_II1223
+BTH_II1002
+BTH_II0978
+BTH_II0976
